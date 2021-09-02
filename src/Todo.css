@@ -1,0 +1,33 @@
+    .list-item-style {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin: 25px;
+    }
+    
+    Button.btn {
+        font-size: 10px;
+        font-weight: 600;
+        margin: 8px;
+    }
+    
+    Button.delete {
+        font-size: 20px;
+        font-weight: bold;
+        background-color: red;
+        color: #fff;
+        border-radius: 55px;
+        height: 55px;
+        width: 25px;
+        margin: 8px;
+        margin-top: 15px;
+    }
+    
+    .listText {
+        margin: 10px;
+    }
+    
+    .listText primary {
+        width: 150px;
+    }
